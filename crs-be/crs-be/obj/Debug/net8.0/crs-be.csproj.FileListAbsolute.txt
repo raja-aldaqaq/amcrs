@@ -1,0 +1,66 @@
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\appsettings.json
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\crs-be.exe
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\crs-be.deps.json
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\crs-be.runtimeconfig.json
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\crs-be.dll
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\crs-be.pdb
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.csproj.AssemblyReference.cache
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.AssemblyInfoInputs.cache
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.AssemblyInfo.cs
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.csproj.CoreCompileInputs.cache
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\staticwebassets\msbuild.crs-be.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\staticwebassets\msbuild.build.crs-be.props
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.crs-be.props
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.crs-be.props
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\scopedcss\bundle\crs-be.styles.css
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.csproj.Up2Date
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.dll
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\refint\crs-be.dll
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.pdb
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\crs-be.genruntimeconfig.cache
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\obj\Debug\net8.0\ref\crs-be.dll
+C:\Users\r.aldaqaq\source\repos\New folder\crs-be\crs-be\crs-be\bin\Debug\net8.0\transactions.json
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\appsettings.json
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\transactions.json
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\crs-be.exe
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\crs-be.deps.json
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\crs-be.runtimeconfig.json
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\crs-be.dll
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\crs-be.pdb
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.csproj.AssemblyReference.cache
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.AssemblyInfoInputs.cache
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.AssemblyInfo.cs
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.csproj.CoreCompileInputs.cache
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\staticwebassets\msbuild.crs-be.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\staticwebassets\msbuild.build.crs-be.props
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.crs-be.props
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.crs-be.props
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\scopedcss\bundle\crs-be.styles.css
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.csproj.Up2Date
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.dll
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\refint\crs-be.dll
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.pdb
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\crs-be.genruntimeconfig.cache
+C:\Users\r.aldaqaq\Dev\amcrs\crs-be\crs-be\obj\Debug\net8.0\ref\crs-be.dll

@@ -44,10 +44,13 @@ const TransactionsList: React.FC = (props) => {
 
   if (loading) return <p>Loading transactions...</p>;
   if (error) return <p>Error: {error}</p>;
+  const sortedTransactions = transactions.sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+  );
 
   return (
     <>
-      {transactions.map((transaction) =>
+      {sortedTransactions.map((transaction) =>
         transaction.status !== "compliant" &&
         transaction.status !== "non-compliant" ? (
           <TransactionCard

@@ -24,27 +24,20 @@ const TransactionCard: React.FC<TransactionProps> = ({
   investmentType,
   amount,
   flaggedReason,
-  status,
-  linkedLevel,
-  linkedToTransactionId,
-  linkedTransactionIds,
   handleStatusChange,
 }) => {
+  const formattedDate = new Date(date).toLocaleDateString("en-GB");
   return (
     <div className="card">
       <div className={`container-card bg-box`}>
         <div className="Transaction-details">
-          <p className="card-title">{id}</p>
-          <p className="card-description">{date}</p>
-          <p className="card-description">{buyerId}</p>
-          <p className="card-description">{sellerId}</p>
-          <p className="card-description">{investmentType}</p>
-          <p className="card-description">{amount}</p>
-          <p className="card-description">{flaggedReason}</p>
-          <p className="card-description">{status}</p>
-          <p className="card-description">{linkedLevel}</p>
-          <p className="card-description">{linkedToTransactionId}</p>
-          <p className="card-description">{linkedTransactionIds}</p>
+          <p className="card-title">ID: {id}</p>
+          <p className="card-description">Buyer: {buyerId}</p>
+          <p className="card-description">Seller: {sellerId}</p>
+          <p className="card-description">Date: {formattedDate}</p>
+          <p className="card-description">Asset: {investmentType}</p>
+          <p className="card-description">Value: ${amount}</p>
+          <p className="card-description">flag Reason: {flaggedReason}</p>
         </div>
         <div className="btn-container">
           <Button
